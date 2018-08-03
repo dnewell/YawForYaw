@@ -1,0 +1,48 @@
+## #  #   .         .      .      .     .   .  . .#
+#     #   .propagate.signal.ignore.noise.   #  # ##
+
+
+### JetBrains IDEs on Windows ###
+
+# user-specific
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# sensitive || high-churn
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# file-based project... files
+*.iws
+
+# internal REST client
+.idea/httpRequests
+
+# misc. JetBrains
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+
+
+### Windows 10 ###
+
+# thumbnail cache
+Thumbs.db
+
+# folder config
+[Dd]esktop.ini
+
+# recycle bin
+$RECYCLE.BIN/
+
+# shortcuts
+*.lnk
