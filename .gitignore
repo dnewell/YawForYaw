@@ -10,6 +10,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+**/.idea/
+
 
 # sensitive || high-churn
 .idea/**/dataSources/
